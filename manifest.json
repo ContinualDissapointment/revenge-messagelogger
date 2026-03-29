@@ -1,0 +1,13 @@
+{
+    "id": "dev.v.messagelogger",
+    "name": "MessageLogger",
+    "description": "Logs deleted and edited messages, displaying them inline in chat.",
+    "authors": [
+        {
+            "name": "V",
+            "id": "000000000000000000"
+        }
+    ],
+    "version": "1.0.0",
+    "icon": "ChatIcon"
+}
